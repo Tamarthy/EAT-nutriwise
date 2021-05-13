@@ -1,0 +1,23 @@
+.header__title {
+    color: #442309;
+    text-align: center;
+    text-shadow: 2px 3px 6px rgba(172, 162, 162, 0.77);
+    ;
+    font-size: 60px;
+    border-top: 3px #442309 solid;
+    padding-top: 20px;
+    margin-top: 0;
+}
+
+.header__logo {
+    display: block;
+    margin: 0px auto;
+    border: 1px #442309 solid;
+    border-radius: 50%;
+    box-shadow: 2px 3px 6px rgba(172, 162, 162, 0.77);
+    ;
+}
+
+.header {
+    text-align: center;
+}

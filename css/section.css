@@ -1,0 +1,29 @@
+.section {
+    padding: 15px;
+}
+
+.section__title {
+    border-left: 10px outset #442309;
+    background-color: #8b694ed7;
+    padding-left: 10px;
+    width: auto;
+}
+
+.section__paragraph {
+    line-height: 1.5;
+    text-align: center;
+}
+
+.section__button {
+    background-color: #8b694e6e;
+    border: none;
+}
+
+.listName {
+    text-decoration: underline;
+}
+
+.section__img {
+    margin: auto;
+    border: #442309 solid 1px;
+}

@@ -1,0 +1,17 @@
+.unorderedList {
+    list-style-type: square;
+  visibility: visible;
+}
+
+.unorderedList__item {
+    margin: 2px 0px;
+}
+
+.undrderedList__title {
+    color: #442309;
+    font-weight: bold;
+}
+
+.unorderedList--removed {
+    display: none;
+}

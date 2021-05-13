@@ -1,0 +1,25 @@
+.navigation {
+    color: #442309;
+    list-style: none;
+    padding-left: 0px;
+    font-weight: bold;
+}
+
+.navigation__link {
+    margin: 6px 0px;
+    text-decoration: none;
+    color: #442309;
+}
+
+.navigation__link:hover {
+    color: hsl(26, 77%, 35%);
+}
+
+.navigation__link:active {
+    color: hsl(26, 77%, 60%);
+}
+
+.navigation__button {
+    background-color: #8b694e6e;
+    border: none
+}

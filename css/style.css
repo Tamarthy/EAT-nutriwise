@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(177, 233, 177);
+}
+
+.container--darkTheme {
+    background-color: rgb(31, 99, 22);
+    color: cornsilk;
+}
